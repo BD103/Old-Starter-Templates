@@ -1,2 +1,2 @@
 language = "nix"
-run = "echo this is an empty branch"
+run = "./gradlew build"
