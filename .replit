@@ -1,2 +1,2 @@
+run = ""
 language = "nix"
-run = "./gradlew build"
